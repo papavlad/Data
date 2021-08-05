@@ -1,0 +1,16 @@
+{
+  "meals": [
+    {
+      "name": "Eggs with bacon",
+      "imgSrc": "eggs",
+      "ingredients": ["3x eggs", "2x bacon slices", "ruzmarin", "salt", "oil"],
+      "prepare": "Baci ulje na tiganj i stavi na trojku. Baci slanine i cekaj da procvrci malo mmm mrale i onda baci jaja da se prze i baci ruzmarina i soli da bude salty i onda spremi sa jogurtom i lebom i uzivaj tada eto ti jaja sa slaninom."
+    },
+    {
+      "name": "Eggs with no bacon bacon bacon bacon",
+      "imgSrc": "eggsNo",
+      "ingredients": ["3x eggs", "ruzmarin", "salt", "oil"],
+      "prepare": "Baci ulje na tiganj i stavi na trojku. Baci slanine i cekaj da procvrci malo mmm mrale i onda baci jaja da se prze i baci ruzmarina i soli da bude salty i onda spremi sa jogurtom i lebom i uzivaj tada eto ti jaja sa slaninom."
+    }
+  ]
+}
